@@ -1,5 +1,4 @@
-# Jogo-da-forca
-Jogo da forca feito em Python
+ Jogo da forca
 
 Esse projeto foi desenvolvido como parte do meu aprendizado.
 
